@@ -13,7 +13,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 @Entity
 public class Tarefa {
-	
 	@Id
 	@GeneratedValue
 	private Long id;
